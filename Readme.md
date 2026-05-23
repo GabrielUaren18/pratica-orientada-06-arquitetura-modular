@@ -5,7 +5,7 @@ IFCE Campus Boa Viagem
 Professor: Renato William Rodrigues de Souza  
 Curso: Análise e Desenvolvimento de Sistemas  
 Aluno: Gabriel Uaren  
-Turma: 3° Semestre  
+Turma: 3° Semestre, 2026
 
 ---
 
@@ -55,4 +55,4 @@ npx json-server db.json
 ```bash
 node src/app.js
 ```
-
+Atualização final da arquitetura modular para entrega.

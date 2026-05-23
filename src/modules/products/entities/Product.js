@@ -1,10 +1,9 @@
-export default class Product {
-
-    constructor(nome, preco) {
-
-        this.nome = nome;
-        this.preco = preco;
-
+class Product {
+    constructor(id, name, price) {
+        this.id = id;
+        this.name = name;
+        this.price = price;
     }
-
 }
+
+module.exports = Product;
